@@ -2,14 +2,12 @@
 
 ## How to build
 
-```
 # Build node version 0.10.33
 
+```
 ./build_node.sh v0.10.33
+```
 
 Note:
-
     When the compilation finishes successfully, you can find :
     node-v0.10.33-at91-linux.tar.gz tarball in tmp directory.
-
-```
